@@ -204,3 +204,80 @@ Indexes
 Absolute XPath
 
 If you're preparing for Selenium interviews, the most important XPath concepts to know are //, @attribute, text(), contains(), starts-with(), and/or, parent, ancestor, following-sibling, preceding-sibling, and XPath indexes.
+
+Job Titlees
+https://opensource-demo.orangehrmlive.com/
+Launch the URL and login username: Admin
+pwd:admin123
+Click on Admin in the leftside dashboard
+click on job in the top menu and click on Job Titles
+click on add
+write job title mandatory field like automationtesterdemo
+click on save
+Click on edit and update the latest jobtitle which got created recently automationtesterdemo
+update the job title with automationtester123
+clcik on save
+again clcik on delete the latest created jobtitle
+clcik on yes delete
+
+
+Pay Grade
+https://opensource-demo.orangehrmlive.com/
+Launch the URL and login username: Admin
+pwd:admin123
+Click on Admin in the leftside dashboard
+Click on job on the top menu and click on Pay Grades
+click on Add
+Add Pay Grade Name Grade 6 and click on save
+click on add currencies
+select currency from drop down
+click on save
+Click on cancel then all pay grade records will show
+click on edit and update the name grade 9
+click on save 
+click on cancel
+click on delete 
+click on yes delete
+
+Employment Status
+https://opensource-demo.orangehrmlive.com/
+Launch the URL and login username: Admin
+pwd:admin123
+Click on Admin in the leftside dashboard
+Click on job and Employment Status
+Click on Add
+Full-Time Permanet
+Click on Save
+Click on edit and update 
+Click on Save
+Click on delete button 
+click on yes delete popup
+
+
+Job Categories
+https://opensource-demo.orangehrmlive.com/
+Launch the URL and login username: Admin
+pwd:admin123
+Click on Admin in the leftside dashboard
+Click on job and Job Categories
+Click on Add
+Write Click on Craft Workers
+Click on Save
+Click on Edit button and update the job category name with Sales Technician
+Click on save
+Click on Delete Button and yes delete
+
+
+Work Shifts
+https://opensource-demo.orangehrmlive.com/
+Launch the URL and login username: Admin
+pwd:admin123
+Click on Admin in the leftside dashboard
+Click on Job and Work Shifts
+Click on Add
+Shift name General
+Time from 8AM to 5PM
+Click on Save
+Click on edit button
+Update shift time and Save
+Click on delete and yes delete 
